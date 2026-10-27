@@ -4,13 +4,10 @@ A responsive portfolio website showcasing my profile, skills, projects and profe
 ## Live Portfolio
 
 
-<img width="1351" height="623" alt="Screenshot 2026-10-22 225246" src="https://github.com/user-attachments/assets/59b544e8-12f8-4f75-af49-470dc7c0c352" />
-
-<img width="1353" height="609" alt="Screenshot 2026-10-22 225254" src="https://github.com/user-attachments/assets/e7420fb9-37ea-4a58-8bab-a80eda388552" />
-
-<img width="1334" height="609" alt="Screenshot 2026-10-22 225300" src="https://github.com/user-attachments/assets/72abf9f4-bae3-4013-9242-6d41aabcc67f" />
-
-<img width="1345" height="603" alt="Screenshot 2026-10-22 225310" src="https://github.com/user-attachments/assets/4f1e9d5e-7616-4d19-9469-081c05288d34" />
+<img width="1265" height="651" alt="Screenshot 2026-10-28 at 1 09 43 AM" src="https://github.com/user-attachments/assets/e08a24a6-12a2-405a-ba16-a1516e1ad348" />
+<img width="1270" height="671" alt="Screenshot 2026-10-28 at 1 09 56 AM" src="https://github.com/user-attachments/assets/7aeb6e20-593c-436b-ba16-618c639ce44b" />
+<img width="1223" height="646" alt="Screenshot 2026-10-28 at 1 10 07 AM" src="https://github.com/user-attachments/assets/468791d0-bdf1-4620-9ff9-a9e6881b468f" />
+<img width="1265" height="654" alt="Screenshot 2026-10-28 at 1 10 16 AM" src="https://github.com/user-attachments/assets/5026a298-061e-40da-849e-63add81a66a3" />
 
 
 
